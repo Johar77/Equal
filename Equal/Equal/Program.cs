@@ -13,6 +13,7 @@ namespace Equal
             Console.WriteLine(x == y);
             object a = 5, b = 5;
             Console.WriteLine(a == b);
+            Console.WriteLine(a.Equals(b));
 
             Console.ReadKey();
         }

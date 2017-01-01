@@ -2,3 +2,7 @@ E:\C#\CSharpWorkPlace\Equal\Equal\Equal\bin\Debug\Equal.exe
 E:\C#\CSharpWorkPlace\Equal\Equal\Equal\bin\Debug\Equal.pdb
 E:\C#\CSharpWorkPlace\Equal\Equal\Equal\obj\x86\Debug\Equal.exe
 E:\C#\CSharpWorkPlace\Equal\Equal\Equal\obj\x86\Debug\Equal.pdb
+D:\GitHub\Equal\Equal\Equal\obj\x86\Debug\Equal.exe
+D:\GitHub\Equal\Equal\Equal\obj\x86\Debug\Equal.pdb
+D:\GitHub\Equal\Equal\Equal\bin\Debug\Equal.exe
+D:\GitHub\Equal\Equal\Equal\bin\Debug\Equal.pdb
